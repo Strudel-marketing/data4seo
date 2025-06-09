@@ -1,0 +1,15 @@
+{
+  "username": "info@strudel.marketing",
+  "password": "233c191dcd0e7d79",
+  "port": 37812,
+  "enabledModules": [
+    "SERP",
+    "KEYWORDS_DATA",
+    "ON_PAGE",
+    "APP_DATA",
+    "BUSINESS_DATA",
+    "BACKLINKS",
+    "CONTENT_ANALYSIS",
+    "LABS"
+  ]
+}
